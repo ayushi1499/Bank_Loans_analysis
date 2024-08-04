@@ -45,9 +45,15 @@ Loan Status Grid View: A comprehensive overview of loans by status, including me
 
 # Dashboard Overview: 
 Monthly Trends by Issue Date (Line Chart): Visualize 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' over time to identify trends.
+
 Regional Analysis by State (Filled Map): Display lending metrics by state to identify regional lending activity and disparities.
-Loan Term Analysis (Donut Chart): Show the distribution of loans by term lengths, like 36 months and 60 months.
+
+Loan Term Analysis (Pie Chart): Show the distribution of loans by term lengths, like 36 months and 60 months.
+
 Employee Length Analysis (Bar Chart): Illustrate lending metrics based on borrowers' employment length.
+
 Loan Purpose Breakdown (Bar Chart): Breakdown of loan metrics by loan purposes, such as debt consolidation or credit card refinancing.
+
 Home Ownership Analysis (Tree Map): Categorize loan metrics by borrowers' home ownership status, such as owning, renting, or having a mortgage.
-Details Dashboard: A user-friendly interface providing a comprehensive view of essential loan metrics, borrower profiles, and loan performance. The objective is to offer an efficient way to access detailed loan data.
+
+Details Dashboard: Dataset
